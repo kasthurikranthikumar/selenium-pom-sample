@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [blogs.selinium_pom.com.theyachtclub.pom.tests.HomePageTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="blogs.selinium_pom.com.theyachtclub.pom.tests.HomePageTest">
+        <methods>
+          <include name="testLearnToSail"/>
+        </methods>
+      </class> <!-- blogs.selinium_pom.com.theyachtclub.pom.tests.HomePageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [blogs.selinium_pom.com.theyachtclub.pom.tests.HomePageTest] -->
